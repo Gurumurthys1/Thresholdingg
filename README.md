@@ -94,6 +94,7 @@ plt.show()
 
 ```
 ## Output
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/6857a6e5-ecf4-48d8-a31f-264a858039ad)
+
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
